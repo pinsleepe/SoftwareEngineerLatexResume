@@ -1,1 +1,2 @@
-[embed]https://github.com/pinsleepe/SoftwareEngineerLatexResume/blob/master/resume.pdf[/embed]
+![Preview](/resume.png)
+
